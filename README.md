@@ -1,2 +1,2 @@
-# edu12-gitops
-gitops sample
+# backend-gitops-kust
+gitops kustomize sample
